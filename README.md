@@ -12,4 +12,6 @@ and identities that actually purchase cooperation at scale, and the biosphere th
 Into war, reading Clausewitz through the gradient lens as politics' violent bookkeeping. And against the hard cases: Ukraine, Mariupol, Nagorno-Karabakh, Afghanistan, the contemporary United States.
 What makes the volume unusual is its discipline. Seven binding rules govern every analysis, including the requirement that the analyst turn the four failure modes on their own work. 
 This is a framework that audits itself, because the first system any method must diagnose honestly is the analyst.
-The wheel turns. Gradients drive it. This is the software needed to do the analytical work prescribed in the book.
+The wheel turns. Gradients drive it. 
+
+This is the software needed to do the analytical work prescribed in the book.  Paste it into the context window of your AI or place inside of your personal file system/obsidian vault.
