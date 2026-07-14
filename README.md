@@ -14,4 +14,3 @@ What makes the volume unusual is its discipline. Seven binding rules govern ever
 This is a framework that audits itself, because the first system any method must diagnose honestly is the analyst.
 The wheel turns. Gradients drive it. 
 
-This is the software needed to do the analytical work prescribed in the book.  Paste it into the context window of your AI or place inside of your personal file system/obsidian vault.
